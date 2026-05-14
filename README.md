@@ -1,2 +1,1 @@
-# minimal-todo-app
-A minimalist to-do app using HTML, CSS &amp; JavaScript
+https://soft-tasks-todo.lovable.app
